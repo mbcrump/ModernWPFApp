@@ -3,7 +3,7 @@
 
 by: [Michael Crump](http://twitter.com/mbcrump)
 
-The original blog post for this article can be found [here,](http://developer.telerik.com/featured/).
+The original blog post for this article can be found [here](http://developer.telerik.com/featured/create-a-modern-ui-with-ui-for-wpf/).
 
 ####Here is my contact info
 
